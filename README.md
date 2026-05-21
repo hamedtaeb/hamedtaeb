@@ -204,11 +204,9 @@ I’m especially interested in work involving:
 
 ---
 
-## GitHub Stats
+## Portfolio Focus
 
-![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedtaeb&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamedtaeb&layout=compact)
+My GitHub projects demonstrate applied work across machine learning, data analysis, product analytics, NLP, time series forecasting, and computer vision. I continue improving these repositories with clearer documentation, model evaluation, business context, and practical AI/data use cases.
 
 ---
 
